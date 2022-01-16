@@ -9,7 +9,10 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import simple.example.hewanpedia.model.Anjing;
 import simple.example.hewanpedia.model.Hewan;
+import simple.example.hewanpedia.model.Kucing;
+import simple.example.hewanpedia.model.Tikus;
 
 public class ProfilActivity extends AppCompatActivity {
 
@@ -37,7 +40,13 @@ public class ProfilActivity extends AppCompatActivity {
 
     private void tampilkanProfil(Hewan hewan) {
         Log.d("Profil","Menampilkan "+hewan.getJenis());
-        txJudul.setText(hewan.getJenis());
+        if (hewan instanceof Kucing) {
+            txJudul.setText(getString(R.string.kucing));
+        } else if (hewan instanceof Anjing) {
+            txJudul.setText(getString(R.string.anjing));
+        } else if (hewan instanceof Tikus) {
+            txJudul.setText(getString(R.string.Tikus));
+        }
         txJenis.setText(hewan.getRas());
         txAsal.setText(hewan.getAsal());
         txDeskripsi.setText(hewan.getDeskripsi());

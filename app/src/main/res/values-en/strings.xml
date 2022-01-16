@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cats, Rats &amp; Pedia Dog</string>
+    // Layout
+    <string name="pilih_gambar">(Select image to open gallery)</string>
+    <string name="daftar_ras_judul">Animal Race List</string>
+    <string name="go_back">back</string>
+    <string name="kucing">cats</string>
+    <string name="anjing">dog</string>
+    <string name="Tikus">mouse</string>
+    <string name="kucing_list_title">List of Cats</string>
+    <string name="anjing_list_title">list of dogs</string>
+    <string name="Tikus_list_title">list of mouse</string>
+    // Data kucing
+    <string name="angora_nama">Angora</string>
+    <string name="angora_asal">Turki</string>
+    <string name="angora_deskripsi">Originally from Ankara, Turkey with the characteristic of long and soft hair</string>
+    <string name="bengal_nama">Bengal</string>
+    <string name="bengal_asal">Inggris</string>
+    <string name="bengal_deskripsi">Is the result of a cross between an Asian Leopard Cat and a British domestic cat</string>
+    <string name="birmani_nama">Birmani</string>
+    <string name="birmani_asal">Birma/Myanmar</string>
+    <string name="birmani_deskripsi">It is said that originally a cat breed that used to accompany the monks who settled in temples in Burma</string>
+    <string name="persia_nama">Persia</string>
+    <string name="persia_asal">Iran</string>
+    <string name="persia_deskripsi">A long-haired cat with a round face and a snub nose. Originally from Iran then imported to Italy</string>
+    <string name="siam_nama">Siam</string>
+    <string name="siam_asal">Thailand</string>
+    <string name="siam_deskripsi">A cat derived from the Wichian Maat (Thai cat) with a characteristic long and slender body, oval face, wide ears, and bluish eyes</string>
+    <string name="siberia_nama">Siberia</string>
+    <string name="siberia_asal">Rusia</string>
+    <string name="siberia_deskripsi">Russian domestic cat with thick fur and large body but very agile and famous for its jumping ability</string>
+    // Data anjing
+    <string name="bulldog_nama">Bulldog</string>
+    <string name="bulldog_asal">Inggris</string>
+    <string name="bulldog_deskripsi">A popular dog known for its chubby, muscular body, wrinkled face, and snub nose</string>
+    <string name="husky_nama">Husky</string>
+    <string name="husky_asal">Alaska,Siberia,Finland (snowy areas)</string>
+    <string name="husky_deskripsi">A special breed of dog originally used to pull sleighs</string>
+    <string name="kintamani_nama">Kintamani</string>
+    <string name="kintamani_asal">Indonesia</string>
+    <string name="kintamani_deskripsi">Dog breeds native to the island of Bali </string>
+    <string name="samoyed_nama">Samoyed</string>
+    <string name="samoyed_asal">Rusia</string>
+    <string name="samoyed_deskripsi">Dogs originating from Siberia that were originally used to guard livestock by the Samoyed . tribe</string>
+    <string name="shepherd_nama">Shepherd</string>
+    <string name="shepherd_asal">Jerman</string>
+    <string name="shepherd_deskripsi">Smart and strong dog, now widely used as guard dog, bodyguard, and police dog (K9)</string>
+    <string name="shiba_nama">Shiba</string>
+    <string name="shiba_asal">Jepang</string>
+    <string name="shiba_deskripsi">This dog from the Shiba area is agile and agile so it was originally used a lot for hunting</string>
+    // Data tikus
+    <string name="tikus_got_nama">Sewer rat</string>
+    <string name="tikus_got_asal">got</string>
+    <string name="tikus_got_deskripsi">ears or ears that are thin but wide, their bodies are much more flexible than other types of mice that usually roam around the house, have a sharp nose and a body size that extends from the mouth to the tip of the tail</string>
+    <string name="tikus_atap_nama">roof rat</string>
+    <string name="tikus_atap_asal">roof</string>
+    <string name="tikus_atap_deskripsi">the shape of the ears is much smaller but hairy, the roof rat`s body has a smaller size but is filled with a little more hair than other types of rats in the environment, the roof rat`s nose is more blunt and short compared to the sewer rat</string>
+    <string name="tikus_rumah_nama">house rat</string>
+    <string name="tikus_rumah_asal">house</string>
+    <string name="tikus_rumah_deskripsi">body size is not too big and not too small, usually house mice have a body size ranging from 2 cm to 10 cm, the size and length of the tail is longer than the sewer rat</string>
+</resources>
